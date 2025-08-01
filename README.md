@@ -14,7 +14,7 @@
 4. cd frontend
 5. npm install
 
-## 실행
+## 실행 (다른 터미널로 실행)
 - 백엔드:
     python backend.py
 - 프론트엔드:
